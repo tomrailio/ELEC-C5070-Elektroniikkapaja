@@ -1,0 +1,5 @@
+LAITEPARI/DEVICE PAIR.
+
+AR lasit ovat yhteydessä mobiililaitteeseen todennäköisesti Bluetooth tai muulla vastaavalla Wi-Fi tekniikalla.
+
+
